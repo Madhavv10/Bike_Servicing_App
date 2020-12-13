@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="@color/plt2_grey">
+
+
+    <TextView
+        android:id="@+id/my_bike_tv"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_weight="1"
+        android:background="@color/plt2_normal"
+        android:gravity="center"
+        android:text="BIKES"
+        android:textColor="#ffffff"
+        android:textSize="14sp">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/my_address_tv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@color/plt2_normal"
+        android:gravity="center"
+        android:text="ADDRESS"
+        android:textColor="#ffffff"
+        android:textSize="14sp">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/my_credits_tv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@color/plt2_normal"
+        android:gravity="center"
+        android:text="CREDITS"
+        android:textColor="#ffffff"
+        android:textSize="14sp">
+
+    </TextView>
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bike_Servicing</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_draw_open">open navigation drawer</string>
+    <string name="navigation_draw_close">close navigation drawer</string>
+    <string name="user_name">Madhav Yadav</string>
+    <string name="gmail_id">yadav.madhav456@gmail.com</string>
+</resources>

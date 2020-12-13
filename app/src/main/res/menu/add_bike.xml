@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/add_bike_menu"
+        android:icon="@drawable/home_24"
+        android:title="add bike" />
+    <item
+        android:id="@+id/update_address_menu"
+        android:icon="@drawable/search"
+        android:title="Uddate address" />
+
+</menu>
